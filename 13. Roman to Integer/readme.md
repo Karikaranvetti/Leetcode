@@ -1,3 +1,4 @@
+[Check the problem  Here](https://leetcode.com/problems/roman-to-integer/description/)
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 the substaction value only need to handel others just need to added to the result
